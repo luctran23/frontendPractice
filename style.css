@@ -1,0 +1,8 @@
+.accordion {
+	background: #E08282;
+	padding: 10px;
+}
+.hidden-content {
+	padding: 10px;
+	display: none;
+}
